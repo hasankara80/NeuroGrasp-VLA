@@ -2,6 +2,7 @@
 
 An end-to-end Behavior Cloning (BC) and Imitation Learning pipeline built for robotic manipulation. This project demonstrates a programmatic synthetic data engine, analytical Inverse Kinematics with domain clipping, PyTorch neural policy training, and closed-loop evaluation in MuJoCo physics simulation.
 
+<img width="800" height="948" alt="ScreenRecording2026-09-15at15 39 45-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/954a1f30-d31c-4eb4-9e52-15d57bc23839" />
 
 
 ## 🧠 System Architecture
