@@ -17,7 +17,8 @@ and predicts three continuous joint-position commands.
 > has no gripper, so the demonstrated behaviour is reaching and contact rather
 > than grasping or lifting.
 
-<img width="800" height="948" alt="ScreenRecording2026-09-15at15 39 45-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/954a1f30-d31c-4eb4-9e52-15d57bc23839" />
+<img width="635" height="779" alt="Screenshot 2026-09-15 at 16 21 57" src="https://github.com/user-attachments/assets/04b050b5-76d5-4d67-9679-63120c2ed9d1" />
+
 Behaviour-cloning policy reaching toward and contacting a red target block in MuJoCo.
 
 ## 🧠 System Architecture
